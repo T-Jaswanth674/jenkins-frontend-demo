@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://T-Jaswanth674.github.io/jenkins-frontend-demo/"
   "scripts": {
     "dev": "vite",
     "build": "vite build",
